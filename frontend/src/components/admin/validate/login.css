@@ -1,0 +1,52 @@
+.form-container{
+    background-color: rgb(181, 223, 209);
+    width: 380px;
+    height: 100%;
+    margin: 4% auto;
+    padding: 5px;
+    border-radius: 20px;
+}
+
+.button{
+    width: 220px;
+    margin: 35px auto;
+    border-radius: 30px;
+}
+
+.toggle-btn{
+    box-shadow: 0 0 20px 9px #0000001f;
+    border: 2px solid grey;
+    border-radius: 30px;
+    padding: 10px 23px;
+    cursor: pointer;
+    background: transparent;
+    margin-left: 12px;
+}
+
+.form-area{
+    width: 280px;
+}
+
+.input{
+    width: 100%;
+    padding: 10px 0;
+    margin: 20px 50px;
+    border: 0;
+    border-bottom: 1px solid #999;
+    outline: none;
+    background: transparent;
+
+    font-size:medium;
+}
+
+.submit{
+    width: 85%;
+    padding: 10px 30px;
+    cursor: pointer;
+    margin: 20px 50px;
+    background-color: orange;
+    border: 0;
+    outline: none;
+    border-radius: 30px;
+    margin-bottom: 30px;
+}
